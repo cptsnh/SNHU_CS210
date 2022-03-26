@@ -1,8 +1,8 @@
 # SNHU_CS210
 # CS210 Portfolio
-# This Portfolio contains three projects from CS210
 
-# Summarize the project and what problem it was solving.
+## Summarize the project and what problem it was solving.
+This Portfolio contains three projects from CS210
 
 # What did you do particularly well?
 
