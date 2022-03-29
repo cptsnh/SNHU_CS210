@@ -1,0 +1,9 @@
+﻿  Client.cpp
+  Controller.cpp
+  Form.cpp
+  View.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 213 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  InvestmentCalculator.vcxproj -> D:\Source\Repos\SNHU\CS210_ProgrammingLanguages\Assignments\ProjectTwo\AirgeadV3\Airgead\Release\InvestmentCalculator.exe
